@@ -1,4 +1,4 @@
-# Lab11_holamundo
+# Laboratorio 11 hola mundo con Spring Boot
 
 ## Objetivo
 
